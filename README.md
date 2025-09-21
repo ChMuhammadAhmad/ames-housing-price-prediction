@@ -111,7 +111,7 @@ shap
 
 ## Usage
 
-Google Colab Link: https://colab.research.google.com/drive/1U3XqgdAW5gjqbYFvlbwOSXM6NCAfxjQK?usp=sharing 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3XqgdAW5gjqbYFvlbwOSXM6NCAfxjQK#scrollTo=DwDJ4ngYdnzR)
 
 1. Clone the repository:
 
